@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertemuan 1</string>
+    <string name="nol">0</string>
+    <string name="tambah">Tambah</string>
+    <string name="kurang">Kurang</string>
+    <string name="reset">Reset</string>
+</resources>
